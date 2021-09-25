@@ -1,0 +1,12 @@
+{
+  "name": "verify-email2",
+  "version": "2.0.0",
+  "description": "Verify that an email address actually exist using SMTP.",
+  "main": "emailverify.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jean Dupouy <jean.dup;ouy@yut.io>",
+  "repository": "izeaju/verify-email",
+  "license": "MIT"
+}
